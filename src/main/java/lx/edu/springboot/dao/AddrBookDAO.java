@@ -60,6 +60,7 @@ public class AddrBookDAO {
 		 * "delete from addrbook where ab_id =?"; PreparedStatement psmt =
 		 * con.prepareStatement(sql); psmt.setInt(1, abId); psmt.execute(); con.close();
 		 * 
+		 * 
 		 * message = true;
 		 */
 
